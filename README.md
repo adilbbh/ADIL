@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adil-nawaz-b3ba0a82/)
 [<img src="https://img.shields.io/github/followers/ADIL-PC?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ADIL-PC) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/aadilnawaz)
-[![Twitter](https://img.shields.io/badge/-twitter-c14438?style=flat&logo=twitter&logoColor=white)](https://twitter.com/geosadil)
-[![Hotmail](https://img.shields.io/badge/-hotmail-c14438?style=flat&logo=Hotmail&logoColor=white)](mailto:adil_pu@hotmail.com)
+[![twitter](https://img.shields.io/badge/-twitter-c14438?style=flat&logo=twitter&logoColor=white)](https://twitter.com/geosadil)
+[![hotmail](https://img.shields.io/badge/-hotmail-c14438?style=flat&logo=hotmail&logoColor=white)](mailto:adil_pu@hotmail.com)
 
 
 My name is **Adil Nawaz**, I have completed my  **MBA in Data Innovation Analytics** from **SWPS Univeristy Poland and Woodbury Buisness School, UTAH Valley Univeristy USA.** Before this, I have completed my **Master of Science in Economic & Mining Geology** from **AGH University of Science and Technology, Krakow Poland.**
