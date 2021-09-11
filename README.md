@@ -7,8 +7,8 @@
 [![hotmail](https://img.shields.io/badge/-hotmail-c14438?style=flat&logo=hotmail&logoColor=white)](mailto:adil_pu@hotmail.com)
 
 
-My name is **Adil Nawaz**, I have completed my  **MBA in Data Innovation Analytics** from **SWPS Univeristy Poland and Woodbury Buisness School, UTAH Valley Univeristy USA.** Before this, I have completed my **Master of Science in Economic & Mining Geology** from **AGH University of Science and Technology, Krakow Poland.**
-I am currently doing intrenship at **EPAM Poland** as **Devops Engineer**. I am passionate about Data Sciences, Artificial Intelligence, Linux, and Project Managment.  My hobbies are listening to Music, Gardening, Running, Photography, Travlling, watching movies, series and sharing it with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
+My name is **Adil Nawaz**, I have completed my  **Postgraduate MBA in Data Innovation & Analytics** from **SWPS Univeristy Poland and Woodbury Buisness School, UTAH Valley Univeristy USA.** Before this, I have completed my **Master of Science in Economic & Mining Geology** from **AGH University of Science and Technology, Krakow Poland.**
+I am currently doing internship at **EPAM Poland** as **Devops Engineer**. I am passionate about Linux, System administration, Data Sciences, Artificial Intelligence, and Project Managment. My hobbies are listening to Music, Gardening, Running, Photography, Travlling, Watching movies, Serials and sharing it with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
